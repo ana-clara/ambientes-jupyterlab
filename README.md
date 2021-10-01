@@ -1,1 +1,1 @@
-# ambientes-jupyterlab
+# Atividade da disciplina de Data Science
